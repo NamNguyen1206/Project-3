@@ -1,0 +1,3 @@
+﻿  Bt2.cpp
+F:\Nam\Project4\Ex2\Bt2.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ex2.vcxproj -> F:\Nam\Project4\x64\Debug\Ex2.exe

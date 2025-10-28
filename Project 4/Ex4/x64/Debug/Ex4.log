@@ -1,0 +1,8 @@
+﻿  Bt5.cpp
+F:\Nam\Project4\Ex4\Bt5.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\Nam\Project4\Ex4\Bt5.cpp(7,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+F:\Nam\Project4\Ex4\Bt5.cpp(7,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+F:\Nam\Project4\Ex4\Bt5.cpp(7,10): message : the missing variadic argument 2 is required by format string '%c'
+F:\Nam\Project4\Ex4\Bt5.cpp(7,10): message : this argument is used as a buffer size
+F:\Nam\Project4\Ex4\Bt5.cpp(25,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Ex4.vcxproj -> F:\Nam\Project4\x64\Debug\Ex5.exe
