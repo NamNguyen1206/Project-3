@@ -1,0 +1,6 @@
+﻿  Bt1.cpp
+F:\Nam\Project3\Ex1\Bt1.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\Nam\Project3\Ex1\Bt1.cpp(14,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Nam\Project3\Ex1\Bt1.cpp(15,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Nam\Project3\Ex1\Bt1.cpp(16,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ex1.vcxproj -> F:\Nam\Project3\x64\Debug\Ex1.exe
