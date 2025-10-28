@@ -1,0 +1,3 @@
+﻿  Bt1.cpp
+F:\Nam\Project5\Ex1\Bt1.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ex1.vcxproj -> F:\Nam\Project5\x64\Debug\Ex1.exe
