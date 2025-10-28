@@ -1,0 +1,7 @@
+﻿  Bt6.cpp
+F:\Nam\Project2\Ex6\Bt6.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\Nam\Project2\Ex6\Bt6.cpp(9,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+F:\Nam\Project2\Ex6\Bt6.cpp(9,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+F:\Nam\Project2\Ex6\Bt6.cpp(9,13): message : the missing variadic argument 2 is required by format string '%c'
+F:\Nam\Project2\Ex6\Bt6.cpp(9,13): message : this argument is used as a buffer size
+  Ex6.vcxproj -> F:\Nam\Project2\x64\Debug\Ex6.exe
